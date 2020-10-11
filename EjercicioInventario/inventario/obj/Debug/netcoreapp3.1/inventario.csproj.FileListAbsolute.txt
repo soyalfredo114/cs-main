@@ -1,0 +1,13 @@
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\bin\Debug\netcoreapp3.1\inventario.exe
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\bin\Debug\netcoreapp3.1\inventario.deps.json
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.json
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\bin\Debug\netcoreapp3.1\inventario.runtimeconfig.dev.json
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\bin\Debug\netcoreapp3.1\inventario.dll
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\bin\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\obj\Debug\netcoreapp3.1\inventario.csprojAssemblyReference.cache
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfoInputs.cache
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\obj\Debug\netcoreapp3.1\inventario.AssemblyInfo.cs
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\obj\Debug\netcoreapp3.1\inventario.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\obj\Debug\netcoreapp3.1\inventario.dll
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\obj\Debug\netcoreapp3.1\inventario.pdb
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioInventario\inventario\obj\Debug\netcoreapp3.1\inventario.genruntimeconfig.cache
