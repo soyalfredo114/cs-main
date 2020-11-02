@@ -1,0 +1,13 @@
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\bin\Debug\netcoreapp3.1\EjercicioOrdenes.exe
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\bin\Debug\netcoreapp3.1\EjercicioOrdenes.deps.json
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\bin\Debug\netcoreapp3.1\EjercicioOrdenes.runtimeconfig.json
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\bin\Debug\netcoreapp3.1\EjercicioOrdenes.runtimeconfig.dev.json
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\bin\Debug\netcoreapp3.1\EjercicioOrdenes.dll
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\bin\Debug\netcoreapp3.1\EjercicioOrdenes.pdb
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\obj\Debug\netcoreapp3.1\EjercicioOrdenes.csprojAssemblyReference.cache
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\obj\Debug\netcoreapp3.1\EjercicioOrdenes.AssemblyInfoInputs.cache
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\obj\Debug\netcoreapp3.1\EjercicioOrdenes.AssemblyInfo.cs
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\obj\Debug\netcoreapp3.1\EjercicioOrdenes.csproj.CoreCompileInputs.cache
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\obj\Debug\netcoreapp3.1\EjercicioOrdenes.dll
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\obj\Debug\netcoreapp3.1\EjercicioOrdenes.pdb
+C:\Users\LATITUDE\Desktop\L2\cs\EjercicioOrdenes\obj\Debug\netcoreapp3.1\EjercicioOrdenes.genruntimeconfig.cache
